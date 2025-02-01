@@ -1,8 +1,8 @@
 # Hi there 👋🏻, I'm **MOHAN k**
 
 ![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
-<img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
+Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Graphic+Designer;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JmZjhoZ20wajhmdzg1bzF5bGp2cWdpemlkemhxeHRyNnB1OWI1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cegAA2LlR200FMQbgG/giphy.gif" alt="Coding Gif" width="350" height="300" />
 
 ### 💻Working at `GrowAI Tech @ Full Stack Developer`
 ###  `CubeAI Solution @ Designer & Web Developer`
