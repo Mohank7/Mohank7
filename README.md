@@ -1,4 +1,4 @@
-# Hi there 👋🏻, I'm **MOHAN k**
+# Hi there 👋🏻, I'm **MOHAN KRISHNAMOORTHI**
 
 ![Typing
 Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Graphic+Designer;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
