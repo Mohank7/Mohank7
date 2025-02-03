@@ -82,7 +82,16 @@ lor=white" alt="YouTube" />
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" alt="adobe-indesign--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-bridge--v1.png" alt="adobe-bridge--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="adobe-premiere-pro"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/50/gimp.png" alt="gimp"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/photopea.png" alt="photopea"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/50/canva.png" alt="canva"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
 
 - **Workspace Setup:**<br>
