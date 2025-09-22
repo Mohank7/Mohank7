@@ -6,6 +6,7 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Graphic+Des
 
 ### 💻Working at `GrowAI Tech @ Full Stack Developer`
 ###  `CubeAI Solution @ Designer & Web Developer`
+###  `Nexgen Nextopia & VibbixStudio @ Video Editor `
 
 
 - 🔭 Here's my [Portfolio](https://mohank-portfolio.netlify.app/)
@@ -20,7 +21,7 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Graphic+Des
 ### 👨‍💻 About Me
 - 🌱 Currently Learning: Advanced Web Development and Next.js
 - 👯 Collaboration Goals: Building innovative and impactful projects
-- 💬 Ask Me About: Creative Design, Web Development, Full-Stack Development, and Dev Tools
+- 💬 Ask Me About: Creative Design, Web Development, Full-Stack Development, Dev Tools and Video Editing 
 - ⚡ Fun Fact: I love experimenting with frameworks and designing workflows
 
 ### 🌐 Connect with Me
